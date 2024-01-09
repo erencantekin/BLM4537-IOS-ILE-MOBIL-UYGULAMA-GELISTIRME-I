@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480888983176",
+    "project_id": "blm4537todotaskfirebase",
+    "storage_bucket": "blm4537todotaskfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480888983176:android:55796176fc80aca85a193d",
+        "android_client_info": {
+          "package_name": "com.example.erencan_tekin_19290273_to_do_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWkbCaFVFUafUETOmm2eJUXREHQ8P7H98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
