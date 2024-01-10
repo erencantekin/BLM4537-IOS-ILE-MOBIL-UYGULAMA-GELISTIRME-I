@@ -70,7 +70,7 @@ class _signupPageState extends State<signupPage> {
           passwordController.text.length < 5 ||
           passwordController.text.length > 25) {
         showSnackBar(false,
-            "Username and Password length should be in between 5 adn 25.");
+            "Username and Password length should be in between 5 and 25.");
         return "";
       }
 
